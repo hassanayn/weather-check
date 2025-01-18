@@ -15,7 +15,7 @@ body {
 .card {
     width: 90%;
     max-width: 400px;
-    background-color: #6666661d;
+    background-color: hsla(0, 50%, 25%, 0.986);
     backdrop-filter: blur(1px);
     border: 1px solid #ccc;
     color: #fff;
