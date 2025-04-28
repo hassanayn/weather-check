@@ -13,3 +13,4 @@ Weather Check is a website that provides current weather information using HTML,
 1. Clone the repository:
    ```bash
    git clone https://github.com/hassanayn/weather-check.git
+   
